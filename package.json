@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/EmmettBarger/Chill-Vibes/issues"
   },
-  "homepage": "https://github.com/EmmettBarger/Chill-Vibes#readme"
+  "homepage": "https://github.com/EmmettBarger/Chill-Vibes#readme",
+  "dependencies": {
+    "any-db": "^2.2.1",
+    "any-db-sqlite3": "^2.1.4",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mustache-express": "^1.2.5"
+  }
 }
