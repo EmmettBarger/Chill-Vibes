@@ -21,6 +21,7 @@
     "any-db-sqlite3": "^2.1.4",
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
-    "mustache-express": "^1.2.5"
+    "mustache-express": "^1.2.5",
+    "youtube-iframe-player": "^1.0.1"
   }
 }
